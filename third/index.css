@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    height: 10vh;
+    width: 100vw;
+}
+.container-big{
+    height: 20vh;
+    width: 100vw;
+}
+.container-1 {
+    background-color: lightgray;
+    padding: 25px;
+    box-sizing: border-box;
+}
+.blue-square {
+    width: 50px;
+    height: 50px;
+    background-color: cornflowerblue;
+}
+.container-2 {
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 50px;
+}
+.paragraph-1 {
+    font-family: sans-serif;
+}
+.container-3 {
+    background-color: cornflowerblue;
+    box-sizing: border-box;
+    padding: 50px;
+}
+.container-4 {
+    background-color: aqua;
+}
+.container-5 {
+    background-color: lightgreen;
+}
+.container-6 {
+    background-color: yellow;
+}
